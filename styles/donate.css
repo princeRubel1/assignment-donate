@@ -84,4 +84,32 @@ header{
 }
 .other_amount p{
     margin-bottom: 10px;
+    color:  #B3B3B3;
+}
+.other_amount span {
+    display: block;
+    margin: auto;
+    width: 55%;
+    border: 1px solid #dadada;
+    margin-bottom: 30px;
+}
+.cards{
+    display:flex;
+    justify-content: center;
+}
+.card{
+    padding: 54px 23px;
+    margin-left: 24px;
+}
+.card img{
+    margin-bottom: 30px;
+}
+.card h4{
+    font-weight: 600px;
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+.card p{
+    width: 315px;
+    color:  #707070;
 }
